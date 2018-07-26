@@ -1,1 +1,1 @@
-## sample project to test.
+## sample project.
